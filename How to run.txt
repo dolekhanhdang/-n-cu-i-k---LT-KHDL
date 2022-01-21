@@ -1,0 +1,2 @@
+Trong bài làm nhóm có thêm thư viện plotly để visualize data nên thầy cần thêm thư viện đó để chạy được.
+Sau khi cài thì thầy vào Kernel ->  Restart & Run All để chạy.
